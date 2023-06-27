@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 5b3b4dc4e05d06c4a98d0d705e30f8fa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Geologica Cursive
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 562aaae3776c37b42952ae7544b888a0, type: 3}
+  - {fileID: 12800000, guid: 01f3f5004c21d394b973078916bab4f3, type: 3}
+  - {fileID: 12800000, guid: c1725f1aaa391ef499d90f4d4d017a6f, type: 3}
+  - {fileID: 12800000, guid: 5a2e16499c3ccd14fb083d7b75015d3d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

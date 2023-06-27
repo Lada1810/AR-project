@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 36389213ba07eb84dadc99c4ad2dc5fe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Geologica Roman
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 12b090c9efa282b48ae5b498f5dc7415, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

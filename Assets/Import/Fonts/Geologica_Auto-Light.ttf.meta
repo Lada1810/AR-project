@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: d7b713bb4e5706544a056e311e4dbf98
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Geologica
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 32e6d9dfa3079be4c92b8081bc139ba1, type: 3}
+  - {fileID: 12800000, guid: 402db246ba869174695a9c59df29ac84, type: 3}
+  - {fileID: 12800000, guid: c2222152876b77e4c87c55d6a06a628b, type: 3}
+  - {fileID: 12800000, guid: b293e10c960e4b9488ad3c239f418b58, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
